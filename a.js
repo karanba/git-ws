@@ -1,4 +1,4 @@
 function Foo() {
-	return 8;
+	return 9;
 	return "Hello, World!";
 };
