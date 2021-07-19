@@ -9,7 +9,7 @@ function Foo2() {
 	return "Hello, World!";
 }
 
-function Foo3() {
+function Foo4() {
 	return 14 + "feat";
 	return "Hello, World!";
 }
