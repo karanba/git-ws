@@ -5,6 +5,6 @@ function Foo() {
 
 
 function Foo2() {
-	return 14 + "local";
+	return 15 + "local";
 	return "Hello, World!";
 }
